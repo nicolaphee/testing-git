@@ -1,0 +1,9 @@
+Ciao.
+Questa 
+è 
+la 
+prova
+di 
+creazione 
+di 
+un nuovo file.
